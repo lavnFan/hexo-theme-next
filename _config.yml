@@ -14,7 +14,7 @@ keywords: "Hexo, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2016
 
 # icon between year and author @Footer
 authoricon: heart
@@ -85,7 +85,7 @@ scheme: Mist
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
   GitHub: https://github.com/lavnFan || github
-  #E-Mail: mailto:yourname@gmail.com || envelope
+  E-Mail: mailto:lavnFan@gmail.com || envelope
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
@@ -308,12 +308,12 @@ han: false
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: ivanfanwu
   count: true
 
 # Hypercomments
-#hypercomments_id:
+hypercomments_id: 95590
 
 # changyan
 changyan:
